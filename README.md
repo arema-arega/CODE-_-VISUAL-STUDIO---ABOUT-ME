@@ -31,7 +31,7 @@ Markdownd/1 first Markdown - Arema Arega
  - Camisetas
 
  ![Camisetas Arte y Fashion](https://static.wixstatic.com/media/c1c014_f0864cd499094f30a26d14d5482c62ca~mv2_d_3000_1500_s_2.png/v1/fill/w_981,h_638,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/c1c014_f0864cd499094f30a26d14d5482c62ca~mv2_d_3000_1500_s_2.png)
- - Bosas
+ - Bolsas
 
  ![Bolsas Arte y Fashion](https://static.wixstatic.com/media/c1c014_6a1c70a1e8ff4d249134fb695d5ee8e9~mv2.jpg/v1/fill/w_1080,h_654,al_c,q_85,enc_auto/c1c014_6a1c70a1e8ff4d249134fb695d5ee8e9~mv2.jpg)
 
